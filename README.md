@@ -1,9 +1,4 @@
-
-  <h1>JavaScript Core Concepts</h1>
-
-  <p>This repository contains information and examples of the core concepts of the JavaScript programming language.</p>
-
-  <h2>Introduction</h2>
+  <h1>Introduction</h1>
 
   <p>JavaScript is a dynamic programming language that is widely used in web development. It can be used both on the client-side and server-side, and is known for its flexibility and ease of use.</p>
 
